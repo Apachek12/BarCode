@@ -980,9 +980,6 @@
 
 
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v2s_6.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v2s_8_2.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v2s_8_1.png
 
 
 
@@ -992,19 +989,19 @@ https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v2s_8_1.png
 
 
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2ks_1.png
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2ks_1_1_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_4_6.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_4_5.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_4_4.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_4_3.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_4.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_4_2.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_4_1.png
 
 
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2ks_2.png
 
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2ks_2_1.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_5_6.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_5_5.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_5_4.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_5_3.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_5.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_5_2.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_5_1.png
 
 
 
@@ -1347,29 +1344,29 @@ https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_4_1.png
 
 
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v3_plus.jpg
 
 
 
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v3_plus_.jpg
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_8_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_2_8.png
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_2_9.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_rfid_5.png
 
 
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_7_1.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_8_2.png
 
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_7_3.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_rfid_6.png
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_no_pogo_5_1_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_pogo_5_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_pogo_5.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_rfid_5_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_no_pogo_6_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_no_pogo_5.png
 
 
 
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_no_pogo_6_1_1.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_pogo_6_1.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_pogo_6.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_rfid_6_1.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_no_pogo_7_1.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_no_pogo_6.png
 
 
 
@@ -2328,11 +2325,11 @@ https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_no_pogo_5.png
 
 
 
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc22r_.jpeg
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc22r__1.jpeg
 
 
 
+https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc22r_6.jpeg
+https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc22r_6_1.jpeg
 
 
 
@@ -3214,9 +3211,12 @@ https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc22r__1.jpeg
 
 
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_flex_3_22_4_1.png
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_flex_3_22_4.png
+
+
+
+
+
 
 
 
