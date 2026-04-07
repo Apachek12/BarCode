@@ -228,7 +228,6 @@
 
 
 
-https://www.barcodesite.eu/media/catalog/product/h/o/honeywell_eda52_2_1.jpg
 
 
 
@@ -254,7 +253,6 @@ https://www.barcodesite.eu/media/catalog/product/h/o/honeywell_eda52_2_1.jpg
 
 
 
-https://www.barcodesite.eu/media/catalog/product/h/o/honeywell_rt10_3_3.png
 
 
 
@@ -331,7 +329,6 @@ https://www.barcodesite.eu/media/catalog/product/h/o/honeywell_rt10_3_3.png
 
 
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v2s_plus_2_3.png
 
 
 
@@ -492,7 +489,6 @@ https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v2s_plus_2_3.png
 
 
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2h_4_2.png
 
 
 
@@ -542,8 +538,6 @@ https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2h_4_2.png
 
 
 
-https://www.barcodesite.eu/media/catalog/product/h/a/halley_a550.png
-https://www.barcodesite.eu/media/catalog/product/h/a/halley_a550_1.png
 
 
 
@@ -783,12 +777,6 @@ https://www.barcodesite.eu/media/catalog/product/h/a/halley_a550_1.png
 
 
 
-https://www.barcodesite.eu/media/catalog/product/g/e/getac_f110_3_7.png
-https://www.barcodesite.eu/media/catalog/product/g/e/getac_f110_3_3.png
-https://www.barcodesite.eu/media/catalog/product/g/e/getac_f110_3_4.png
-https://www.barcodesite.eu/media/catalog/product/g/e/getac_f110_3_5.png
-https://www.barcodesite.eu/media/catalog/product/g/e/getac_f110_3_1.png
-https://www.barcodesite.eu/media/catalog/product/g/e/getac_f110_3_6.png
 
 
 
@@ -864,7 +852,6 @@ https://www.barcodesite.eu/media/catalog/product/g/e/getac_f110_3_6.png
 
 
 
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_mc3400_54.png
 
 
 
@@ -952,7 +939,6 @@ https://www.barcodesite.eu/media/catalog/product/z/e/zebra_mc3400_54.png
 
 
 
-https://www.barcodesite.eu/media/catalog/product/n/e/newland_n7_cachalot_pro_3.png
 
 
 
@@ -976,13 +962,7 @@ https://www.barcodesite.eu/media/catalog/product/n/e/newland_n7_cachalot_pro_3.p
 
 
 
-https://www.barcodesite.eu/media/catalog/product/n/e/newland_wd5_3.png
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v2s_plus_3_3.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v2s_plus_3_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v2s_8.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v2s_6_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v2s_7_1.png
 
 
 
@@ -990,25 +970,9 @@ https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v2s_7_1.png
 
 
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2h_4_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2h_4.png
-https://www.barcodesite.eu/media/catalog/product/_/s/_sunmi_l2ks_..png
 
-https://www.barcodesite.eu/media/catalog/product/_/s/_sunmi_l2ks_._1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_3_6.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_3_5.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_3_4.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_3_3.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_3.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_3_2.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_3_1.png
 
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_ps30_uso.jpeg
 
-https://www.barcodesite.eu/media/catalog/product/h/o/honeywell_rt10_3_2.png
-https://www.barcodesite.eu/media/catalog/product/h/o/honeywell_rt10_3_1.png
-https://www.barcodesite.eu/media/catalog/product/h/o/honeywell_rt10_3.png
-https://www.barcodesite.eu/media/catalog/product/h/o/honeywell_rt10w_3.png
 
 
 
@@ -1016,6 +980,9 @@ https://www.barcodesite.eu/media/catalog/product/h/o/honeywell_rt10w_3.png
 
 
 
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v2s_6.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v2s_8_2.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v2s_8_1.png
 
 
 
@@ -1025,7 +992,16 @@ https://www.barcodesite.eu/media/catalog/product/h/o/honeywell_rt10w_3.png
 
 
 
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2ks_1.png
 
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2ks_1_1_1.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_4_6.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_4_5.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_4_4.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_4_3.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_4.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_4_2.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_4_1.png
 
 
 
@@ -1061,11 +1037,9 @@ https://www.barcodesite.eu/media/catalog/product/h/o/honeywell_rt10w_3.png
 
 
 
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc58e_3_4.jpeg
 
 
 
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc58e_3_6.jpeg
 
 
 
@@ -1075,13 +1049,8 @@ https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc58e_3_6.jpeg
 
 
 
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc58e_3_5.jpeg
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc58e_3_3.jpeg
 
 
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc58e_3_2.jpeg
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc58e_3_1.jpeg
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc58e_3.jpeg
 
 
 
@@ -1152,14 +1121,10 @@ https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc58e_3.jpeg
 
 
 
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_ws50__1.png
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_ws50_.png
 
 
 
 
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_wt5400_3.jpeg
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_wt5400_3_1.jpeg
 
 
 
@@ -1192,7 +1157,6 @@ https://www.barcodesite.eu/media/catalog/product/z/e/zebra_wt5400_3_1.jpeg
 
 
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3.png
 
 
 
@@ -1346,27 +1310,11 @@ https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3.png
 
 
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v3_plus_4.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v3_plus_3.png
 
 
 
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_2_7.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_3_8.png
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_3_9.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_rfid_4.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_m3_1_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_m3_4_3.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_m3_1_2.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_m3_4.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_no_pogo_4_1_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_pogo_4_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_pogo_4.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_rfid_4_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_no_pogo_5_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_no_pogo_4.png
 
 
 
@@ -1399,19 +1347,29 @@ https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_no_pogo_4.png
 
 
 
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_v3_plus.jpg
 
 
 
 
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_8_1.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_2_8.png
 
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l2s_pro_2_9.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_rfid_5.png
 
 
 
 
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_no_pogo_5_1_1.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_pogo_5_1.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_pogo_5.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_rfid_5_1.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_no_pogo_6_1.png
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_l3_no_pogo_5.png
 
 
 
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc501_supermercado.jpeg
 
 
 
@@ -1689,7 +1647,6 @@ https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc501_supermercado.jp
 
 
 
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_et60_2_10.jpeg
 
 
 
@@ -1709,24 +1666,10 @@ https://www.barcodesite.eu/media/catalog/product/z/e/zebra_et60_2_10.jpeg
 
 
 
-https://www.barcodesite.eu/media/catalog/product/c/o/colossus_w803-_abajo.png
-https://www.barcodesite.eu/media/catalog/product/c/o/colossus_w803-_abajo_1.png
-https://www.barcodesite.eu/media/catalog/product/c/o/colossus_w103_-_abajo.png
-https://www.barcodesite.eu/media/catalog/product/c/o/colossus_w103_-_abajo_1.png
-https://www.barcodesite.eu/media/catalog/product/6/_/6_colossus_w108_-_frontal_abajo.png
-https://www.barcodesite.eu/media/catalog/product/6/_/6_colossus_w108_-_frontal_abajo_1.png
-https://www.barcodesite.eu/media/catalog/product/6/_/6_colossus_w108_-_frontal_abajo_2.png
-https://www.barcodesite.eu/media/catalog/product/6/_/6_colossus_w108_-_frontal_abajo_3.png
-https://www.barcodesite.eu/media/catalog/product/5/_/5_colossus_w128_-_frontal_arriba.png
-https://www.barcodesite.eu/media/catalog/product/5/_/5_colossus_w128_-_frontal_arriba_1.png
-https://www.barcodesite.eu/media/catalog/product/5/_/5_colossus_w128_-_frontal_arriba_2.png
-https://www.barcodesite.eu/media/catalog/product/5/_/5_colossus_w128_-_frontal_arriba_3.png
 
 
 
 
-https://www.barcodesite.eu/media/catalog/product/5/_/5_colossus_a121_-_frontal_arriba.png
-https://www.barcodesite.eu/media/catalog/product/5/_/5_colossus_a121_-_frontal_arriba_2.png
 
 
 
@@ -2328,8 +2271,6 @@ https://www.barcodesite.eu/media/catalog/product/5/_/5_colossus_a121_-_frontal_a
 
 
 
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc22r_1.jpeg
-https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc22r_1_1.jpeg
 
 
 
@@ -2387,6 +2328,8 @@ https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc22r_1_1.jpeg
 
 
 
+https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc22r_.jpeg
+https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc22r__1.jpeg
 
 
 
@@ -2944,9 +2887,6 @@ https://www.barcodesite.eu/media/catalog/product/z/e/zebra_tc22r_1_1.jpeg
 
 
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_d3_pro_3_2.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_d3_pro_3_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_d3_pro_3.png
 
 
 
@@ -3191,34 +3131,21 @@ https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_d3_pro_3.png
 
 
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_cpad_11_standard_3_3.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_cpad_11_standard_3_5.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_cpad_11_scanner_3.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_cpad_11_standard_3_6.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_cpad_11_standard_3_4.png
 
 
 
 
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_cpad_11_standard_3_2.png
 
 
 
 
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_cpad_11_standard_3_7.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_cpad_11_standard_3_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_cpad_11_standard_3.png
 
 
 
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_flex_3_22_3_1.png
 
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_flex_3_22_3.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_flex_3_18_3_1.png
-https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_flex_3_18_3.png
 
 
 
@@ -3287,7 +3214,9 @@ https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_flex_3_18_3.png
 
 
 
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_flex_3_22_4_1.png
 
+https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_flex_3_22_4.png
 
 
 
@@ -14628,7 +14557,6 @@ https://www.barcodesite.eu/media/catalog/product/s/u/sunmi_flex_3_18_3.png
 
 
 
-https://www.barcodesite.eu/media/catalog/product/a/4/a49cd7d0e60c1912de7024611b5ab15a_t1732msc-w5ag-w-70.jpg
 
 
 
@@ -14643,7 +14571,6 @@ https://www.barcodesite.eu/media/catalog/product/a/4/a49cd7d0e60c1912de7024611b5
 
 
 
-https://www.barcodesite.eu/media/catalog/product/4/0/4092adf9fc70d9a4a9df53c4a455c2f5_t2454msc-70.jpg
 
 
 
@@ -14691,7 +14618,6 @@ https://www.barcodesite.eu/media/catalog/product/4/0/4092adf9fc70d9a4a9df53c4a45
 
 
 
-https://www.barcodesite.eu/media/catalog/product/e/a/ea2170050868b99e9384370b7eca037b_b1980sd-w-70.jpg
 
 
 
@@ -14700,15 +14626,12 @@ https://www.barcodesite.eu/media/catalog/product/e/a/ea2170050868b99e9384370b7ec
 
 
 
-https://www.barcodesite.eu/media/catalog/product/a/c/ac181aea7658123d4a2082d649eb737d_b2791hsu-70.jpg
 
 
 
 
-https://www.barcodesite.eu/media/catalog/product/1/b/1b64993f3b224f3b6301e14af1dcc1ee_b2791qsu-b1-70.jpg
 
 
-https://www.barcodesite.eu/media/catalog/product/2/5/25f35f2219ba2fb9ad35c2722324bf58_s2820hsb-73.jpg
 
 
 
@@ -14755,7 +14678,6 @@ https://www.barcodesite.eu/media/catalog/product/2/5/25f35f2219ba2fb9ad35c272232
 
 
 
-https://www.barcodesite.eu/media/catalog/product/7/8/782bb9238fc34a002639bb05643b2b9e_lh4352uhs-b1-73.jpg
 
 
 
@@ -14797,7 +14719,6 @@ https://www.barcodesite.eu/media/catalog/product/7/8/782bb9238fc34a002639bb05643
 
 
 
-https://www.barcodesite.eu/media/catalog/product/i/i/iiyama_prolite_b19_b1980s-b1_4.jpg
 
 
 
@@ -14835,9 +14756,7 @@ https://www.barcodesite.eu/media/catalog/product/i/i/iiyama_prolite_b19_b1980s-b
 
 
 
-https://www.barcodesite.eu/media/catalog/product/i/i/iiyama_prolite_t17xx_t1731sr-b1s_5.jpg
 
-https://www.barcodesite.eu/media/catalog/product/i/i/iiyama_prolite_t17xx_t1732msc-b1sag_4.jpg
 
 
 
@@ -14890,9 +14809,90 @@ https://www.barcodesite.eu/media/catalog/product/i/i/iiyama_prolite_t17xx_t1732m
 
 
 
-https://www.barcodesite.eu/media/catalog/product/i/i/iiyama_prolite_xub27xb27b27_1.jpg
 
-https://www.barcodesite.eu/media/catalog/product/i/i/iiyama_prolite_xub27xb27b27_1_1.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
